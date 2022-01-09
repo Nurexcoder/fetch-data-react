@@ -1,8 +1,8 @@
-.Card{
+.Card {
     border: 1px solid black;
     margin: 10px 20px;
 }
-.loc{
+.loc {
     display: flex;
     flex-direction: row;
     justify-content: flex-start;
