@@ -30,9 +30,16 @@ A website build using react which fetch data from api, store them in IndexedDb a
 ## Libraries Used
 
 1. **Reactjs**
-1. **Dexiejs**
-1. **React Bootstrap**
-1. **MUI,MUI-Icons**
+ 
+2. **Dexiejs**
+
+3. **React Bootstrap**
+ 
+4. **MUI,MUI-Icons**
+
+5. **Axios**
+ 
+6. **Styled-components**
 
 
 
