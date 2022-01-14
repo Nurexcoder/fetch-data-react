@@ -23,11 +23,11 @@
    ```
 1. **Open the source code and start editing!**
 
-## 🙌 About Project
+## ℹ️ About Project
 
 A website build using react which fetch data from api, store them in IndexedDb and dynamically display them
 
-## Libraries Used
+## 📚 Libraries Used
 
 1. **Reactjs**
  
